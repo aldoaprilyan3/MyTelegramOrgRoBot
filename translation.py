@@ -1,8 +1,9 @@
 class Translation(object):
     START_TEXT = """Hi!
-please read the TnC before proceeding: https://t.me/SpEcHlDe/889
-Thank you for using me 😬
-Enter your Telegram Phone Number, to get the APP-ID from my.telegram.org
+Terima Kasih Telah Menggunakan Saya Silahkan Masukan Nomor Untuk Mendapatkan API HASH dan API ID Atau Bisa Hub Owner
+
+ Creator : @coklintoud
+ Support : @xthunderlol
 
 /start at any stage to re-enter your details"""
     AFTER_RECVD_CODE_TEXT = """I see!

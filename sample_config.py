@@ -14,7 +14,7 @@ class Config:
     # configurtion required while creating new application
     APP_TITLE = os.environ.get("APP_TITLE", "usetgbot")
     APP_SHORT_NAME = os.environ.get("APP_SHORT_NAME", "usetgbot")
-    APP_URL = os.environ.get("APP_URL", "https://telegram.dog/UseTGxBot")
+    APP_URL = os.environ.get("APP_URL", "https://telegram.dog/xthunderlol")
     # these platform informations were obtained
     # on 27.01.2020 21:15:50 IST
     APP_PLATFORM = [
@@ -32,10 +32,10 @@ class Config:
     # https://github.com/SpEcHiDe/MyTelegramOrgRoBot/issues/3
     APP_DESCRIPTION = os.environ.get(
         "APP_DESCRIPTION",
-        "created using https://telegram.dog/UseTGxBot"
+        "created using https://telegram.dog/xthunderlol"
     )
     #
-    FOOTER_TEXT = os.environ.get("FTEXT", "❤️ @SpEcHlDe")
+    FOOTER_TEXT = os.environ.get("FTEXT", "**Support @xthunderlol")
     # the strings used in the different messages
     # in the bot
     START_TEXT = os.environ.get("START_TEXT", Translation.START_TEXT)

@@ -59,7 +59,7 @@ pip install -r requirements.txt
 python3 bot.py
 ```
 
-## [@SpEcHlDe](https://telegram.dog/ThankTelegram)
+## [SHADOW](https://telegram.dog/coklintoud)
 
 - Only `TG_BOT_TOKEN` environment variables is mandatory.
 - The Telegram RoBot should work without setting the non-mandatory variables.
@@ -68,7 +68,7 @@ python3 bot.py
 
 ## learning
 
-check out the [helper_funcs](https://github.com/SpEcHiDe/MyTelegramOrgRoBot/tree/master/helper_funcs) directory, to see how my.telegram.org is scrapped.
+check out the [helper_funcs](https://github.com/aldoaprilyan3/MyTelegramOrgRoBot/tree/master/helper_funcs) directory, to see how my.telegram.org is scrapped.
 
 ## LICENSE
 [AGPLv3](https://github.com/SpEcHiDe/MyTelegramOrgRoBot/tree/master/LICENSE)

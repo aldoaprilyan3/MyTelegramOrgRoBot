@@ -10,7 +10,7 @@ Terima Kasih Telah Menggunakan Saya Silahkan Masukan Nomor Untuk Mendapatkan API
 Sekarang Tolong Berikan Kode Dari telegram
 Kode ini hanya digunakan untuk tujuan mendapatkan APP ID dari my.telegram.org
 Jika Anda tidak mempercayai dev bot ini, Bisa Anda Gunakan Account Tumbal.
-f" **[Support](t.me/xthunderlol)\n [ꜱʜᴀᴅᴏᴡ](t.me/coklintoud)\n")
+        f" **[Support](t.me/xthunderlol)\n [ꜱʜᴀᴅᴏᴡ](t.me/coklintoud)\n")
 
 /start at any stage to re-enter your details"""
     BEFORE_SUCC_LOGIN = "recieved code. Scarpping web page ..."

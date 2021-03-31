@@ -6,8 +6,8 @@ Terima Kasih Telah Menggunakan Saya Silahkan Masukan Nomor Untuk Mendapatkan API
  Support : @xthunderlol
 
 /start at any stage to re-enter your details"""
-    AFTER_RECVD_CODE_TEXT = """I see!
-now please send the Telegram code that you received from Telegram!
+    AFTER_RECVD_CODE_TEXT = """Aku Melihatnya!
+no please send the Telegram!
 
 this code is only used for the purpose of getting the APP ID from my.telegram.org
 if you do not trust this bot dev, please host this bot yourself

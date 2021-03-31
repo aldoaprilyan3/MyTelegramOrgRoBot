@@ -22,7 +22,7 @@ __For any other bots, ask the respective bot developers, for the source code, be
 
 #### The Easy Way
 
-[![Deploy](https://heroku.com/deploy?template=https://github.com/aldoaprilyan3/MyTelegramOrgRoBot/tree/master"><img src="https://media1.tenor.com/images/40f0f188f6c50b5bf8eccc5e0fa3f2a2/tenor.gif?itemid=16820808" alt="Press to Takeoff" width="690px"></a>
+![Deploy](https://heroku.com/deploy?template=https://github.com/aldoaprilyan3/MyTelegramOrgRoBot/tree/master"><img src="https://media1.tenor.com/images/40f0f188f6c50b5bf8eccc5e0fa3f2a2/tenor.gif?itemid=16820808" alt="Press to Takeoff" width="690px"></a>
 )
 
 

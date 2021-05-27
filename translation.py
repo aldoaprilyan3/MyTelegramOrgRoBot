@@ -2,7 +2,7 @@ class Translation(object):
     START_TEXT = """Hi!
 Terima Kasih Telah Menggunakan Saya Silahkan Masukan Nomor Untuk Mendapatkan API HASH dan API ID Atau Bisa Hub Owner
 
- Creator : @coklintoud
+ Creator : @RhitoSakai
  Support : @xthunderlol
 
 /start at any stage to re-enter your details"""

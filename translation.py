@@ -2,8 +2,7 @@ class Translation(object):
     START_TEXT = """Hi!
 Terima Kasih Telah Menggunakan Saya Silahkan Masukan Nomor Untuk Mendapatkan API HASH dan API ID Atau Bisa Hub Owner
 
- Creator : @RhitoSakai
- Support : @xthunderlol
+ ❏ ᴏᴡɴᴇʀ : [ꜱʜᴀᴅᴏᴡ](t.me/RhitoSakai)**\n**❏ ɢɪᴛʜᴜʙ : [ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ](https://t.me/ChatBotXanon)**\n
 
 /start at any stage to re-enter your details"""
     AFTER_RECVD_CODE_TEXT = """Aku Melihatnya!

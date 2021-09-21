@@ -14,7 +14,7 @@ Jika Anda tidak mempercayai dev bot ini, Bisa Anda Gunakan Account Tumbal.
 
 /start at any stage to re-enter your details"""
     BEFORE_SUCC_LOGIN = "recieved code. Scarpping web page ..."
-    ERRED_PAGE = "something wrongings. failed to get app id. \n\n@xthunderlol"
+    ERRED_PAGE = "Proses Gagal Atau Terjadi Eror,Gagal Mendapatkan app id Bila Gagal Mendapatkan app id bisa menggunakan cara manual \n\nmy.telegram.org"
     CANCELLED_MESG = "Bye! Please re /start the bot conversation"
     IN_VALID_CODE_PVDED = "sorry, but the input does not seem to be a valid Telegram Web-Login code"
     IN_VALID_PHNO_PVDED = "sorry, but the input does not seem to be a valid phone number"
